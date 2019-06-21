@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-  1.5˚ Climate Crisis ${years_to_event} years <span id="minutes" class='part'>${duration}</span>min
+  AVG FREQ OF U.S. RECESSIONS: 4.7 YRS. TIME ELAPSED SINCE 2009: 11.5 YRS.
 
   </marquee></li>`;
 
